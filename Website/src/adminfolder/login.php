@@ -6,7 +6,7 @@
     <head>
         <meta charset ="utf-8">
         <title>Jasper Jean </title>
-        <link rel="stylesheet" href= "css/style.css">
+        <link rel="stylesheet" href= "../../css/style.css">
     </head>
     <body>  
         <div class="box">
@@ -26,7 +26,7 @@
             </form>
         <!--database-->
         <?php
-            include "database/connection.php";
+            include "../../database/connection.php";
             if(isset($_POST['login']))
             { 
                 $username = $_POST['user'];
