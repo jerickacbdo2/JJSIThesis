@@ -8,7 +8,7 @@
 	<link rel="icon" type="image/ico" href="../../image/jjasper.png">
 	<!-- bootstrapcss -->
 	<link rel="stylesheet" href="../../css/bootstrap.min.css">
-	<link rel="stylesheet" href="../../css/style.css">
+	<link rel="stylesheet" href="../../css/maincss/style.css">
 
 </head>
 
@@ -29,8 +29,7 @@
 				</ul>
 				<form class="form-inline my-2 my-lg-0">
 					<div class="row">
-						<input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
-						<button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+					<input type="text" name="search" placeholder="Search..">
 					</div>
 				</form>
 			</div>

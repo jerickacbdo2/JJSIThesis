@@ -8,7 +8,7 @@
     <script src="../../../css/datatables/dataTables.bootstrap.css"></script> -->
     <script src="C:\xampp\htdocs\JJSIThesis\Website\css\bootstrap\css\bootstrap-grid.min.css"></script>
     <script src="C:\xampp\htdocs\JJSIThesis\Website\css\bootstrap\css\bootstrap.min.css"></script>
-    <link rel="stylesheet" type="text/css" href="../../../css/style.css">
+    <link rel="stylesheet" type="text/css" href="C:\xampp\htdocs\JJSIThesis\Website\css\maincss\style.css">
     <script src="../../../js/bootstrap.js"></script>
 </head>
 
